@@ -1,0 +1,29 @@
+header {
+    background-color: #994d00;
+    color:white;
+}
+body{
+     background-color: #009900;  
+}
+main {
+    background-color:whitesmoke;
+    padding: 16px;
+}
+.post {
+    margin-bottom: 48px;
+}
+.post .user-info img {
+    border-radius: 50%;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h2:hover {
+    color: blue;
+    zoom: 120%;
+}
+/*
+.photo:visited {
+    border: 3px dashed red;
+}
+*/
